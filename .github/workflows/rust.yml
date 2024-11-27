@@ -1,4 +1,4 @@
-name: Rust
+[![Rust](https://github.com/Tootnbarbs/solana-security-txt/actions/workflows/rust.yml/badge.svg)](https://github.com/Tootnbarbs/solana-security-txt/actions/workflows/rust.yml)https://github.com/Tootnbarbs/solana-security-txt/actions/workflows/rust.yml/badge.svghttps://github.com/Tootnbarbs/solana-security-txt/actions/workflows/rust.ymlname: Rust
 
 on:
   push:
